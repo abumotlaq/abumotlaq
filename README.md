@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Osama Abu Motlaq</h1>
-<h3 align="center">A passionate Frontend Developer From Gaza passionate About Building Modern and Responsive Web Applications.</h3>
+<h3 align="center">Frontend Developer focused on building modern, responsive web applications with React and JavaScript.
+</h3>
 
 
 ## 🚀 About Me
