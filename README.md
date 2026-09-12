@@ -10,10 +10,10 @@
 - 📚 Currently improving my skills in frontend development
 - 🌍 Interested in web development and real-world projects
 
-## 📫 Contact me **oabumotlaq@gmail.com**. 👋
+## 📫 Contact me [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oabumotlaq@gmail.com).
 
-##  Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/osama_motlaq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/osamaabumotlaq) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/osamaabumotlaq)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oabumotlaq@gmail.com) 
+👋Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/osama_motlaq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/osamaabumotlaq) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/osamaabumotlaq)
 [![stackoverflow](https://img.shields.io/badge/stackoverflow-%23E4405F.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/33051014/osama-abu-motlaq//)
 
 # 💻 Tech Stack:
