@@ -22,9 +22,9 @@ Building modern, responsive web applications with a focus on **clean code, thoug
 
 I'm **Osama Abu Motlaq**, a Computer Science student and **Frontend Developer** focused on building modern web applications with **React and Next.js**.
 
-My primary focus is frontend development — from building reusable interfaces and managing application state to working with APIs, forms, responsive layouts, and modern React patterns.
+My work centers on building reusable interfaces, managing application state, integrating APIs, handling forms, and creating responsive and maintainable user experiences.
 
-For applications that require backend functionality, I work with **Supabase** to handle data, authentication, storage, and backend services without shifting my focus away from frontend engineering.
+For application data, authentication, storage, and database needs, I use **Supabase** as a supporting backend service while keeping my primary focus on frontend engineering.
 
 ---
 
@@ -36,7 +36,6 @@ For applications that require backend functionality, I work with **Supabase** to
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-
 
 ### Frontend
 
@@ -58,59 +57,33 @@ For applications that require backend functionality, I work with **Supabase** to
 
 ---
 
-## `what_i_do`
+## `frontend_engineering`
 
-### Frontend Development
+I build frontend applications with **React, Next.js, and TypeScript**, focusing on:
 
-* Building responsive web interfaces
-* Developing reusable React components
-* Type-safe development with TypeScript
+* Reusable and maintainable React components
+* Responsive user interfaces
 * Application state management
 * Forms and validation
-* API integration
-* Client-side and server-side rendering
-* Modern Next.js application development
+* API and data integration
+* Modern Next.js development
+* Server-side and client-side rendering
 * Accessible and maintainable UI
+* Clean and type-safe code
 
-### Application Backend
-
-I use **Supabase** when my frontend applications require backend capabilities such as:
-
-* PostgreSQL databases
-* Authentication
-* Row Level Security
-* File storage
-* Database queries
-* Backend services and APIs
-
----
-
-## `currently_building`
-
-My work is centered around building **real-world frontend applications** with React and Next.js.
-
-I'm focused on becoming stronger at:
-
-**React · TypeScript · Next.js · UI Architecture · State Management · Data Fetching · Supabase**
-
-The goal is simple:
-
-> **Build better interfaces, understand the tools I use, and write code I can confidently maintain.**
+For applications that need persistent data, authentication, storage, or database functionality, I use **Supabase** as the supporting service.
 
 ---
 
 ## `projects`
 
-I learn by building real applications rather than collecting frameworks.
-
 ### Portfolio
 
 **Next.js · TypeScript · Supabase**
 
-My personal developer portfolio built with Next.js, with Supabase providing the backend services required by the application.
+My personal developer portfolio built with Next.js, with Supabase providing the application data and backend services.
 
 → [View Portfolio](https://osamaabumotlaq.vercel.app/)
-
 
 ---
 
@@ -147,6 +120,5 @@ My personal developer portfolio built with Next.js, with Supabase providing the 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abumotlaq\&style=flat-square\&color=436)
-
 
 </div>
