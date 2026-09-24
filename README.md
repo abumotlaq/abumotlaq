@@ -2,11 +2,11 @@
 
 # Osama Abu Motlaq
 
-### Frontend Developer · Full-Stack JavaScript
+### Frontend Developer · React & Next.js
 
-**React · TypeScript · Next.js · Node.js · PostgreSQL**
+**React · TypeScript · Next.js · Supabase**
 
-Building modern web applications with a focus on **clean code, thoughtful architecture, and great user experiences.**
+Building modern, responsive web applications with a focus on **clean code, thoughtful architecture, and great user experiences.**
 
 <br />
 
@@ -20,11 +20,11 @@ Building modern web applications with a focus on **clean code, thoughtful archit
 
 ## `whoami`
 
-I'm **Osama Abu Motlaq**, a Computer Science student from Gaza, Palestine, focused on modern JavaScript development.
+I'm **Osama Abu Motlaq**, a Computer Science student and **Frontend Developer** focused on building modern web applications with **React and Next.js**.
 
-My main focus is **React, TypeScript, and Next.js**, while expanding into backend development with **Node.js and PostgreSQL**.
+My primary focus is frontend development — from building reusable interfaces and managing application state to working with APIs, forms, responsive layouts, and modern React patterns.
 
-I enjoy building real projects, understanding the technologies behind them, and continuously improving how I write and structure software.
+For applications that require backend functionality, I work with **Supabase** to handle data, authentication, storage, and backend services without shifting my focus away from frontend engineering.
 
 ---
 
@@ -39,68 +39,84 @@ I enjoy building real projects, understanding the technologies behind them, and 
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge\&logo=mui\&logoColor=white)
 
-### Backend & Databases
+### Backend Services
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
 ---
 
-## `focus`
+## `what_i_do`
 
-Currently focused on:
+### Frontend Development
 
-* React & TypeScript
-* Next.js and modern web architecture
-* Backend development with Node.js
-* PostgreSQL and database fundamentals
-* Building production-oriented web applications
-* Writing clean, maintainable code
+* Building responsive web interfaces
+* Developing reusable React components
+* Type-safe development with TypeScript
+* Application state management
+* Forms and validation
+* API integration
+* Client-side and server-side rendering
+* Modern Next.js application development
+* Accessible and maintainable UI
+
+### Application Backend
+
+I use **Supabase** when my frontend applications require backend capabilities such as:
+
+* PostgreSQL databases
+* Authentication
+* Row Level Security
+* File storage
+* Database queries
+* Backend services and APIs
 
 ---
 
-## `exploring`
+## `currently_building`
 
-I'm also exploring modern AI application development, including:
+My work is centered around building **real-world frontend applications** with React and Next.js.
 
-**LLMs · RAG · Embeddings · Tool Calling · AI Agents**
+I'm focused on becoming stronger at:
 
-My interest is in understanding how these technologies can be integrated into useful, real-world applications.
+**React · TypeScript · Next.js · UI Architecture · State Management · Data Fetching · Supabase**
+
+The goal is simple:
+
+> **Build better interfaces, understand the tools I use, and write code I can confidently maintain.**
 
 ---
 
 ## `projects`
 
-I learn by building.
+I learn by building real applications rather than collecting frameworks.
 
-Some of my work includes:
+### Portfolio
 
-**Portfolio**
-Next.js · TypeScript · Supabase · PostgreSQL
+**Next.js · TypeScript · Supabase**
 
-**JavaScript Reference**
-A structured reference for JavaScript fundamentals and advanced concepts.
+My personal developer portfolio built with Next.js, with Supabase providing the backend services required by the application.
 
-**React Reference**
+→ [View Portfolio](https://osamaabumotlaq.vercel.app/)
+
+### JavaScript Reference
+
+A structured reference covering JavaScript fundamentals and advanced concepts.
+
+### React Reference
+
 A progressive reference for learning React from fundamentals to advanced patterns.
-
-More → [Portfolio](https://osamaabumotlaq.vercel.app/)
 
 ---
 
