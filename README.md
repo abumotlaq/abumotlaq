@@ -2,11 +2,11 @@
 
 # Osama Abu Motlaq
 
-### Frontend Developer · Full-Stack JavaScript in Progress
+### Frontend Developer · Full-Stack JavaScript
 
 **React · TypeScript · Next.js · Node.js · PostgreSQL**
 
-I build web applications with a focus on **understanding the fundamentals, designing maintainable systems, and turning ideas into usable software.**
+Building modern web applications with a focus on **clean code, thoughtful architecture, and great user experiences.**
 
 <br />
 
@@ -20,34 +20,15 @@ I build web applications with a focus on **understanding the fundamentals, desig
 
 ## `whoami`
 
-I'm **Osama Abu Motlaq**, a Computer Science student focused on modern web development.
+I'm **Osama Abu Motlaq**, a Computer Science student from Gaza, Palestine, focused on modern JavaScript development.
 
-My primary direction is **React and TypeScript**, with **Next.js** as the bridge toward full-stack JavaScript development.
+My main focus is **React, TypeScript, and Next.js**, while expanding into backend development with **Node.js and PostgreSQL**.
 
-I don't want to simply learn frameworks.
-
-I want to understand the **JavaScript ecosystem underneath them** — from browser fundamentals and React's component model to APIs, databases, server-side logic, and application architecture.
-
-```text
-JavaScript
-    │
-    ├── Browser Fundamentals
-    │
-    ├── TypeScript
-    │
-    ├── React
-    │
-    └── Next.js
-          │
-          ├── Server
-          ├── APIs
-          ├── Databases
-          └── Full-Stack Applications
-```
+I enjoy building real projects, understanding the technologies behind them, and continuously improving how I write and structure software.
 
 ---
 
-## `what_i_work_with`
+## `stack`
 
 ### Languages
 
@@ -58,6 +39,8 @@ JavaScript
 
 ### Frontend
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
@@ -79,142 +62,49 @@ JavaScript
 
 ---
 
-## `what_i_build`
+## `focus`
 
-I use projects as a way to move from **knowing a concept** to **understanding how it behaves in a real application**.
+Currently focused on:
 
-### Frontend
-
-```text
-Responsive UI
-Component Architecture
-State Management
-Forms & Validation
-API Integration
-Accessibility
-Performance
-Reusable Components
-```
-
-### Full Stack
-
-```text
-REST APIs
-Server-Side Logic
-Authentication
-Authorization
-Database Integration
-Data Validation
-Error Handling
-Application Architecture
-```
+* React & TypeScript
+* Next.js and modern web architecture
+* Backend development with Node.js
+* PostgreSQL and database fundamentals
+* Building production-oriented web applications
+* Writing clean, maintainable code
 
 ---
 
-## `how_i_learn`
+## `exploring`
 
-I don't measure progress by the number of frameworks I know.
+I'm also exploring modern AI application development, including:
 
-I measure it by how well I understand the problems those frameworks solve.
+**LLMs · RAG · Embeddings · Tool Calling · AI Agents**
 
-```text
-Understand the problem
-        ↓
-Learn the underlying concept
-        ↓
-Understand the abstraction
-        ↓
-Build it
-        ↓
-Read the implementation
-        ↓
-Question the trade-offs
-        ↓
-Improve the design
-```
-
-AI can accelerate development.
-
-But **understanding the code remains the responsibility of the developer.**
-
----
-
-## `currently_exploring`
-
-My current focus is becoming stronger across the entire JavaScript application stack.
-
-```text
-Frontend
-React + TypeScript
-        ↓
-Application Framework
-Next.js
-        ↓
-Backend
-Node.js
-        ↓
-Data
-PostgreSQL
-        ↓
-Deployment & Infrastructure
-Docker · Linux · CI/CD
-```
-
-Alongside web development, I'm exploring the foundations of modern AI-powered applications:
-
-```text
-LLMs
- ├── Prompt Engineering
- ├── Embeddings
- ├── Retrieval
- ├── RAG
- ├── Tool Calling
- └── AI Agents
-```
-
-The goal is to understand **how these technologies work and where they provide real value**, rather than simply connecting an API and calling it an AI application.
+My interest is in understanding how these technologies can be integrated into useful, real-world applications.
 
 ---
 
 ## `projects`
 
-I prefer projects that demonstrate **engineering decisions**, not just visual interfaces.
+I learn by building.
 
-### Portfolio
+Some of my work includes:
 
-**Next.js · TypeScript · Supabase · PostgreSQL**
+**Portfolio**
+Next.js · TypeScript · Supabase · PostgreSQL
 
-A personal developer platform built to showcase projects, skills, and practical experience.
+**JavaScript Reference**
+A structured reference for JavaScript fundamentals and advanced concepts.
 
-→ [View Portfolio](https://osamaabumotlaq.vercel.app/)
+**React Reference**
+A progressive reference for learning React from fundamentals to advanced patterns.
 
-### JavaScript Reference
-
-A structured reference for learning JavaScript from fundamentals through advanced concepts.
-
-### React Reference
-
-A structured learning reference covering React concepts progressively, from components and JSX to state, effects, and application patterns.
+More → [Portfolio](https://osamaabumotlaq.vercel.app/)
 
 ---
 
-## `engineering_principles`
-
-> **Fundamentals over hype.**
-
-> **Understanding over copying.**
-
-> **Simple architecture over unnecessary complexity.**
-
-> **Readable code over clever code.**
-
-> **Real projects over tutorial completion.**
-
-> **AI-assisted development — not AI-dependent development.**
-
----
-
-## `github_activity`
+## `github`
 
 <div align="center">
 
@@ -248,6 +138,6 @@ A structured learning reference covering React concepts progressively, from comp
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abumotlaq\&style=flat-square\&color=436)
 
-### Building software. Understanding systems. Growing every day.
+**Build · Learn · Ship**
 
 </div>
