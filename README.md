@@ -87,10 +87,6 @@ My personal developer portfolio built with Next.js, with Supabase providing the 
 
 → [View Portfolio](https://osamaabumotlaq.vercel.app/)
 
-### Admin Dashborad
-
- **React · Material UI**
-
 ---
 
 ## `github`
@@ -124,6 +120,6 @@ My personal developer portfolio built with Next.js, with Supabase providing the 
 <br />
 
 <div align="center">
-.[![Profile Views](https://komarev.com/ghpvc/?username=abumotlaq\&style=flat-square\&color=436)].
+  <img src="https://komarev.com/ghpvc/?username=abumotlaq&style=flat-square&color=436" alt="Profile Views" />
 </div>
 </div>
