@@ -34,8 +34,9 @@ For applications that require backend functionality, I work with **Supabase** to
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+
 
 ### Frontend
 
@@ -110,13 +111,6 @@ My personal developer portfolio built with Next.js, with Supabase providing the 
 
 → [View Portfolio](https://osamaabumotlaq.vercel.app/)
 
-### JavaScript Reference
-
-A structured reference covering JavaScript fundamentals and advanced concepts.
-
-### React Reference
-
-A progressive reference for learning React from fundamentals to advanced patterns.
 
 ---
 
@@ -154,6 +148,5 @@ A progressive reference for learning React from fundamentals to advanced pattern
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abumotlaq\&style=flat-square\&color=436)
 
-**Build · Learn · Ship**
 
 </div>
