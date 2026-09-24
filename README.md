@@ -2,11 +2,11 @@
 
 # Osama Abu Motlaq
 
-### Frontend Developer → Full-Stack JavaScript Engineer
+### Frontend Developer · Full-Stack JavaScript in Progress
 
 **React · TypeScript · Next.js · Node.js · PostgreSQL**
 
-I build modern web applications with a focus on **clean architecture, maintainable code, responsive interfaces, and real-world functionality.**
+I build web applications with a focus on **understanding the fundamentals, designing maintainable systems, and turning ideas into usable software.**
 
 <br />
 
@@ -20,17 +20,34 @@ I build modern web applications with a focus on **clean architecture, maintainab
 
 ## `whoami`
 
-I'm **Osama Abu Motlaq**, a Computer Science student and developer focused on modern JavaScript web development.
+I'm **Osama Abu Motlaq**, a Computer Science student focused on modern web development.
 
-My current path is centered around:
+My primary direction is **React and TypeScript**, with **Next.js** as the bridge toward full-stack JavaScript development.
 
+I don't want to simply learn frameworks.
 
+I want to understand the **JavaScript ecosystem underneath them** — from browser fundamentals and React's component model to APIs, databases, server-side logic, and application architecture.
 
-I'm currently deepening my understanding of **React and TypeScript** while moving toward full-stack development with **Next.js, Node.js, and PostgreSQL**.
+```text
+JavaScript
+    │
+    ├── Browser Fundamentals
+    │
+    ├── TypeScript
+    │
+    ├── React
+    │
+    └── Next.js
+          │
+          ├── Server
+          ├── APIs
+          ├── Databases
+          └── Full-Stack Applications
+```
 
 ---
 
-## `engineering_stack`
+## `what_i_work_with`
 
 ### Languages
 
@@ -46,14 +63,14 @@ I'm currently deepening my understanding of **React and TypeScript** while movin
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge\&logo=mui\&logoColor=white)
 
-### Backend & Data
+### Backend & Databases
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-### Tools & Workflow
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -64,78 +81,140 @@ I'm currently deepening my understanding of **React and TypeScript** while movin
 
 ## `what_i_build`
 
-I don't want my GitHub to be a collection of tutorial projects.
-
-I use projects to turn concepts into working software.
+I use projects as a way to move from **knowing a concept** to **understanding how it behaves in a real application**.
 
 ### Frontend
 
-* Responsive interfaces
-* Component-based architecture
-* Client and server state management
-* Forms and validation
-* API integration
-* Accessible UI
-* Dark / light themes
-* Reusable components
+```text
+Responsive UI
+Component Architecture
+State Management
+Forms & Validation
+API Integration
+Accessibility
+Performance
+Reusable Components
+```
 
 ### Full Stack
 
-* REST APIs
-* Authentication
-* Authorization
-* Database-backed applications
-* Server-side rendering
-* Server actions
-* API routes
-* Data validation
-* Error handling
+```text
+REST APIs
+Server-Side Logic
+Authentication
+Authorization
+Database Integration
+Data Validation
+Error Handling
+Application Architecture
+```
 
-### Engineering
+---
 
-* Git workflows
-* Code organization
-* Type safety
-* Environment configuration
-* Deployment
-* Performance considerations
-* Maintainable architecture
+## `how_i_learn`
+
+I don't measure progress by the number of frameworks I know.
+
+I measure it by how well I understand the problems those frameworks solve.
+
+```text
+Understand the problem
+        ↓
+Learn the underlying concept
+        ↓
+Understand the abstraction
+        ↓
+Build it
+        ↓
+Read the implementation
+        ↓
+Question the trade-offs
+        ↓
+Improve the design
+```
+
+AI can accelerate development.
+
+But **understanding the code remains the responsibility of the developer.**
 
 ---
 
 ## `currently_exploring`
 
-Beyond traditional web development, I'm exploring how modern AI systems are built and integrated into applications.
-
-The goal is not simply to use AI APIs.
-
-More projects → **[Portfolio](https://osamaabumotlaq.vercel.app/)**
-
----
-
-## `principles`
+My current focus is becoming stronger across the entire JavaScript application stack.
 
 ```text
-Learn the fundamentals.
+Frontend
+React + TypeScript
         ↓
-Understand the abstraction.
+Application Framework
+Next.js
         ↓
-Build without blindly depending on AI.
+Backend
+Node.js
         ↓
-Read the code.
+Data
+PostgreSQL
         ↓
-Question the architecture.
-        ↓
-Ship the product.
-        ↓
-Improve it.
+Deployment & Infrastructure
+Docker · Linux · CI/CD
 ```
 
-I believe AI is a **development multiplier**, not a replacement for understanding software engineering fundamentals.
+Alongside web development, I'm exploring the foundations of modern AI-powered applications:
+
+```text
+LLMs
+ ├── Prompt Engineering
+ ├── Embeddings
+ ├── Retrieval
+ ├── RAG
+ ├── Tool Calling
+ └── AI Agents
+```
+
+The goal is to understand **how these technologies work and where they provide real value**, rather than simply connecting an API and calling it an AI application.
 
 ---
 
-## `github`
+## `projects`
+
+I prefer projects that demonstrate **engineering decisions**, not just visual interfaces.
+
+### Portfolio
+
+**Next.js · TypeScript · Supabase · PostgreSQL**
+
+A personal developer platform built to showcase projects, skills, and practical experience.
+
+→ [View Portfolio](https://osamaabumotlaq.vercel.app/)
+
+### JavaScript Reference
+
+A structured reference for learning JavaScript from fundamentals through advanced concepts.
+
+### React Reference
+
+A structured learning reference covering React concepts progressively, from components and JSX to state, effects, and application patterns.
+
+---
+
+## `engineering_principles`
+
+> **Fundamentals over hype.**
+
+> **Understanding over copying.**
+
+> **Simple architecture over unnecessary complexity.**
+
+> **Readable code over clever code.**
+
+> **Real projects over tutorial completion.**
+
+> **AI-assisted development — not AI-dependent development.**
+
+---
+
+## `github_activity`
 
 <div align="center">
 
@@ -169,6 +248,6 @@ I believe AI is a **development multiplier**, not a replacement for understandin
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abumotlaq\&style=flat-square\&color=436)
 
-**Building. Learning. Understanding. Shipping.**
+### Building software. Understanding systems. Growing every day.
 
 </div>
