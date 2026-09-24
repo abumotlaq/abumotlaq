@@ -3,7 +3,14 @@
 <h3 align="center">Frontend Developer focused on building modern, responsive web applications with React and JavaScript.
 </h3>
 
+Languages C , Java, JavaScript, Typescript.
+Frontend React.js, Next.js, Tailwind CSS
 
+Backend Node.js, Express.js. PostgreSQL, MongoDB.
+
+Infrastructure & DevOps Docker, Github Actions, Linux, CI/CD
+
+Currently Exploring LLMs, RAG, Embeddings, Tool Calling, AI Agents, Distributed Systems, System Design
 ## About Me
 - 💻 I work with React & Next.js
 - 🎯 I enjoy building clean and user-friendly interfaces
@@ -22,7 +29,7 @@
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" />
 </p>
-
+/*
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
@@ -35,7 +42,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+*/
 
 ## 📊 GitHub Stats
 
