@@ -24,51 +24,7 @@ I'm **Osama Abu Motlaq**, a Computer Science student and developer focused on mo
 
 My current path is centered around:
 
-```text
-JavaScript
-    ↓
-TypeScript
-    ↓
-React
-    ↓
-Next.js
-    ↓
-Node.js
-    ↓
-Databases
-    ↓
-Full-Stack Applications
-```
 
-I care about understanding **how things work underneath the abstractions**, not just making them work.
-
-My goal is to build software that is:
-
-* Maintainable
-* Scalable
-* Accessible
-* Responsive
-* Type-safe
-* Easy to understand
-* Built around real user needs
-
----
-
-## `current_focus`
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│                    CURRENTLY BUILDING                    │
-├─────────────────────────────────────────────────────────┤
-│ React + TypeScript                                      │
-│ Next.js App Router                                      │
-│ Full-Stack JavaScript                                   │
-│ REST APIs & Backend Fundamentals                        │
-│ PostgreSQL & Database Design                            │
-│ Authentication & Authorization                          │
-│ Software Architecture                                   │
-└─────────────────────────────────────────────────────────┘
-```
 
 I'm currently deepening my understanding of **React and TypeScript** while moving toward full-stack development with **Next.js, Node.js, and PostgreSQL**.
 
@@ -85,8 +41,6 @@ I'm currently deepening my understanding of **React and TypeScript** while movin
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
@@ -104,7 +58,6 @@ I'm currently deepening my understanding of **React and TypeScript** while movin
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
 ---
@@ -154,34 +107,7 @@ I use projects to turn concepts into working software.
 
 Beyond traditional web development, I'm exploring how modern AI systems are built and integrated into applications.
 
-```text
-LLMs
- │
- ├── Prompt Engineering
- ├── Embeddings
- ├── Vector Search
- ├── RAG
- ├── Tool Calling
- └── AI Agents
-```
-
 The goal is not simply to use AI APIs.
-
-The goal is to understand how AI capabilities can become **useful software features inside real applications**.
-
----
-
-## `projects`
-
-Some of the projects I work on are focused on learning by building:
-
-| Project              | Stack                           | Focus                       |
-| -------------------- | ------------------------------- | --------------------------- |
-| Portfolio            | Next.js · TypeScript · Supabase | Personal developer platform |
-| React Projects       | React · TypeScript · Vite       | Frontend architecture & UI  |
-| JavaScript Reference | JavaScript                      | Language fundamentals       |
-| React Reference      | React · JavaScript              | React concepts & patterns   |
-| Web Experiments      | HTML · CSS · JavaScript         | Browser fundamentals        |
 
 More projects → **[Portfolio](https://osamaabumotlaq.vercel.app/)**
 
