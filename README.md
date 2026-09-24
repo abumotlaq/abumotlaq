@@ -1,4 +1,6 @@
 ا<div align="center">
+<div align="left">
+  
 
 # Osama Abu Motlaq
 
@@ -121,4 +123,5 @@ My personal developer portfolio built with Next.js, with Supabase providing the 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abumotlaq\&style=flat-square\&color=436)
 
+</div>
 </div>
