@@ -6,7 +6,7 @@
 
 ### Frontend Developer · React & Next.js
 
-**React · TypeScript · Next.js · Supabase**
+**React · TypeScript · Node.js · Express.js · Next.js ·**
 
 Building modern, responsive web applications with a focus on **clean code, thoughtful architecture, and great user experiences.**
 
