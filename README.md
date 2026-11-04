@@ -17,6 +17,45 @@ Building modern, responsive web applications with a focus on **clean code, thoug
 </div>
 
 ---
+## `tech_stack`
+
+<table>
+  <tr>
+    <th align="left">Category</th>
+    <th align="left">Learned & Used</th>
+    <th align="left">Currently Learning</th>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>JavaScript · TypeScript</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>HTML5 · CSS3 · React · Next.js</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td><b>UI & Styling</b></td>
+    <td>Tailwind CSS · Material UI</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>Supabase</td>
+    <td>Node.js · Express.js</td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>Supabase (PostgreSQL)</td>
+    <td>PostgreSQL · MongoDB</td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>Git · GitHub · VS Code · Vite</td>
+    <td>—</td>
+  </tr>
+</table>
 
 ## `whoami`
 I'm **Osama Abu Motlaq**, a Computer Science student and **Frontend Developer** focused on building modern web applications with **React, Next.js, and TypeScript**.
