@@ -20,42 +20,71 @@ Building modern, responsive web applications with a focus on **clean code, thoug
 ## `tech_stack`
 
 <table>
-  <tr>
-    <th align="left">Category</th>
-    <th align="left">Learned & Used</th>
-    <th align="left">Currently Learning</th>
-  </tr>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>JavaScript · TypeScript</td>
-    <td>—</td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>HTML5 · CSS3 · React · Next.js</td>
-    <td>—</td>
-  </tr>
-  <tr>
-    <td><b>UI & Styling</b></td>
-    <td>Tailwind CSS · Material UI</td>
-    <td>—</td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>Supabase</td>
-    <td>Node.js · Express.js</td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>Supabase (PostgreSQL)</td>
-    <td>PostgreSQL · MongoDB</td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>Git · GitHub · VS Code · Vite</td>
-    <td>—</td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="left">Category</th>
+      <th align="left">Learned & Used</th>
+      <th align="left">Currently Learning</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Languages</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      </td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td><b>Frontend</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+      </td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td><b>UI & Styling</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+      </td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td><b>Backend</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Databases</b></td>
+      <td>—</td>
+      <td>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Tools</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+      </td>
+      <td>—</td>
+    </tr>
+  </tbody>
 </table>
+
 
 ## `whoami`
 I'm **Osama Abu Motlaq**, a Computer Science student and **Frontend Developer** focused on building modern web applications with **React, Next.js, and TypeScript**.
@@ -68,30 +97,6 @@ I also use **Supabase** as a backend service in my projects.
 
 ---
 
-## `stack`
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge\&logo=mui\&logoColor=white)
-
-### Backend Services
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-
----
 
 ## `frontend_engineering`
 
