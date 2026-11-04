@@ -21,12 +21,13 @@ Building modern, responsive web applications with a focus on **clean code, thoug
 ---
 
 ## `whoami`
+I'm **Osama Abu Motlaq**, a Computer Science student and **Frontend Developer** focused on building modern web applications with **React, Next.js, and TypeScript**.
 
-I'm **Osama Abu Motlaq**, a Computer Science student and **Frontend Developer** focused on building modern web applications with **React and Next.js**.
+My frontend work focuses on building reusable components, managing application state, integrating APIs, handling forms, and creating responsive and maintainable user experiences.
 
-My work centers on building reusable interfaces, managing application state, integrating APIs, handling forms, and creating responsive and maintainable user experiences.
+I'm currently expanding my skills toward **Full-Stack Development**, learning **Node.js, Express.js, and database technologies** to better understand backend development, server-side logic, API design, and data management.
 
-For application data, authentication, storage, and database needs, I use **Supabase** as a supporting backend service while keeping my primary focus on frontend engineering.
+I also use **Supabase** as a backend service in my projects.
 
 ---
 
@@ -72,6 +73,16 @@ I build frontend applications with **React, Next.js, and TypeScript**, focusing 
 For applications that need persistent data, authentication, storage, or database functionality, I use **Supabase** as the supporting service.
 
 ---
+## `currently_learning`
+
+I'm expanding my knowledge beyond frontend development and working toward becoming a **Full-Stack JavaScript Developer**.
+
+Currently focusing on:
+
+- **Node.js** — Server-side JavaScript and runtime fundamentals.
+- **Express.js** — Backend development and RESTful API design.
+- **Databases** — Learning data modeling, SQL, PostgreSQL, and MongoDB.
+- **Backend Fundamentals** — Understanding server-side architecture, authentication, and data persistence.
 
 ## `projects`
 
