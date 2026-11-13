@@ -2,7 +2,7 @@
 
 # Osama Abu Motlaq
 
-### Software Developer
+### Software Developer · Web-Focused
 
 Building modern web applications with a focus on clean code, maintainable architecture, and continuous learning.
 
