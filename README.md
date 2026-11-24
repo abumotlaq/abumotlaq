@@ -16,9 +16,9 @@ Building modern web applications with a focus on clean code, maintainable archit
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Technologies
 
@@ -95,7 +95,3 @@ I work primarily with JavaScript, TypeScript, React, and Next.js. I'm currently 
 <sub>Go Gopher artwork by <a href="https://go.dev/blog/gopher">Renee French</a> · CC BY 4.0</sub>
 
 </div>
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:007D9C&height=100&section=footer" width="100%" />
