@@ -86,11 +86,7 @@ I work primarily with JavaScript, TypeScript, React, and Next.js. I'm currently 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://osamaabumotlaq.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/osamaabumotlaq)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abumotlaq)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/abumotlaq)
-
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=abumotlaq&style=flat-square&color=436" alt="Profile Views" />
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/osamaabumotlaq)
 
 <br />
 
