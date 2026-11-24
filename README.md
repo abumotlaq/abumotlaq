@@ -75,10 +75,6 @@ I work primarily with JavaScript, TypeScript, React, and Next.js. I'm currently 
 
 <img src="https://streak-stats.demolab.com/?user=abumotlaq&theme=transparent&hide_border=true" />
 
-<br />
-
-<img src="https://contribkit.app/user/abumotlaq.svg" alt="GitHub Contribution Calendar" width="100%" />
-
 </div>
 
 ---
@@ -96,4 +92,14 @@ I work primarily with JavaScript, TypeScript, React, and Next.js. I'm currently 
 
 <img src="https://komarev.com/ghpvc/?username=abumotlaq&style=flat-square&color=436" alt="Profile Views" />
 
+<br />
+
+<img src="https://go.dev/blog/gopher/gopher.png" width="100" alt="Go Gopher" />
+
+<sub>Go Gopher artwork by <a href="https://go.dev/blog/gopher">Renee French</a> · CC BY 4.0</sub>
+
 </div>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:007D9C&height=100&section=footer" width="100%" />
