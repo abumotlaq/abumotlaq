@@ -1,14 +1,17 @@
-<div align="center">
+ <div align="center">
+
 # Osama Abu Motlaq
 
 **Software Developer · Web-Focused**
+
 Building modern web applications with a focus on clean code, maintainable architecture, and continuous learning.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=v
-ercel&logoColor=white)](https://osamaabumotlaq.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://osamaabumotlaq.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/osamaabumotlaq)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oabumotlaq@gmail.com)
+
 </div>
+
 ---
 
 ### Languages
@@ -64,9 +67,17 @@ I work primarily with JavaScript, TypeScript, React, and Next.js. I'm currently 
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=abumotlaq&theme=transparent&hide_border=true&show_icons=true" height="160" />
+<img src="https://github-readme-stats.shion.dev/api?username=abumotlaq&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" height="180" />
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abumotlaq&theme=transparent&hide_border=true&layout=compact" height="160" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abumotlaq&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com/?user=abumotlaq&theme=transparent&hide_border=true" />
+
+<br />
+
+<img src="https://contribkit.app/user/abumotlaq.svg" alt="GitHub Contribution Calendar" width="100%" />
 
 </div>
 
@@ -74,7 +85,15 @@ I work primarily with JavaScript, TypeScript, React, and Next.js. I'm currently 
 
 ### Connect
 
+<div align="center">
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://osamaabumotlaq.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/osamaabumotlaq)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abumotlaq)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/osamaabumotlaq)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/abumotlaq)
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=abumotlaq&style=flat-square&color=436" alt="Profile Views" />
+
+</div>
